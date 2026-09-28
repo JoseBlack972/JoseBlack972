@@ -1,34 +1,63 @@
 # Olá! 👋 Eu sou Viktor
 
-💻 **Estudante de Desenvolvimento de Sistemas | Java | Spring Boot | Python | Backend**
+💻 **Desenvolvedor Backend em formação | Java | Spring Boot | Python | SQL | Docker**
 
-Sou estudante de **Desenvolvimento de Sistemas**, com foco em **desenvolvimento Backend**, automação e construção de aplicações.
+Sou estudante de **Desenvolvimento de Sistemas**, com foco em **desenvolvimento Backend**, construção de aplicações, APIs, bancos de dados e automação.
 
-Venho desenvolvendo **pequenos projetos práticos em Java e Python**, explorando APIs, bancos de dados, integrações e desenvolvimento de aplicações. Também tenho interesse em **Frontend e Vibe Coding**, utilizando ferramentas de IA como apoio à prototipação, desenvolvimento e aprendizado.
+Tenho desenvolvido projetos práticos utilizando **Java, Spring Boot e Python**, buscando transformar os conhecimentos adquiridos nos estudos em aplicações funcionais e cada vez mais completas.
 
-Além disso, estudo **automação com Python, n8n e ferramentas similares**, buscando criar integrações e automatizar tarefas.
+Atualmente, meu principal foco é aprofundar meus conhecimentos em **Java, Spring Boot, APIs REST, bancos de dados, Docker e desenvolvimento de aplicações Backend**.
 
-Estou sempre buscando aprender novas tecnologias, colocar conhecimentos em prática e evoluir como desenvolvedor.
+---
 
-## 🚀 Tecnologias e conhecimentos
+## 🚀 Projeto em destaque
 
-### 💻 Desenvolvimento
+### 🏪 Sistema PDV & Delivery
+
+Meu principal projeto prático em **Java e Backend**.
+
+Sistema de Ponto de Venda desenvolvido com **Java e Spring Boot**, incluindo autenticação, controle de acesso por perfil, gerenciamento de produtos, estoque, caixa, vendas, delivery e relatórios.
+
+**Tecnologias principais:**
+
+`Java 17` `Spring Boot` `Spring Security` `JPA/Hibernate` `H2` `PostgreSQL` `Docker` `Maven` `Thymeleaf`
+
+🔗 **[Ver projeto no GitHub](https://github.com/JoseBlack972/EXAMPLE_PDV_LOCAL_H2)**
+
+O projeto também possui configuração para execução com **Docker** e estrutura preparada para utilização com **PostgreSQL em ambientes de deploy**.
+
+---
+
+## 🛠️ Tecnologias e conhecimentos
+
+### 💻 Backend
 
 * ☕ Java
-* 🌱 Spring / Spring Boot
-* 🐍 Python
+* 🌱 Spring Boot
+* 🔐 Spring Security
 * 🔗 APIs REST
-* 🗄️ Bancos de dados
-* 🌐 Frontend
-* 🤖 Vibe Coding
+* 🗄️ Spring Data JPA / Hibernate
+* 🐍 Python
+* 📋 Maven
 
 ### 🗃️ Banco de Dados
 
 * SQL
 * MySQL
 * PostgreSQL
+* H2
 * Modelagem de dados
 * Consultas SQL
+
+### 🐳 DevOps e Ferramentas
+
+* Docker
+* Docker Compose
+* Git
+* GitHub
+* Postman
+* VS Code
+* IntelliJ IDEA
 
 ### ⚙️ Automação
 
@@ -38,71 +67,118 @@ Estou sempre buscando aprender novas tecnologias, colocar conhecimentos em prát
 * Automação de tarefas
 * Ferramentas de IA
 
+### 🌐 Desenvolvimento Web
+
+* Spring MVC
+* Thymeleaf
+* HTML
+* CSS
+* JavaScript
+
 ### 🖥️ Sistemas Operacionais
 
-* Windows
 * Linux
 * Ubuntu
 * Fedora
-
-### 🛠️ Ferramentas
-
-* Git
-* GitHub
-* Docker
-* Postman
-* VS Code
-* IntelliJ IDEA
-
-## 📂 Projetos
-
-Meus repositórios reúnem **projetos de estudo e pequenos projetos práticos**, principalmente nas áreas de:
-
-* ☕ Java e Spring Boot
-* 🐍 Python
-* 🔗 APIs REST
-* 🗄️ Banco de dados
-* 🌐 Frontend
-* 🤖 Automação
-* 🔄 Integração entre sistemas
-* 🐧 Linux
-
-Busco transformar os conhecimentos adquiridos nos estudos em **projetos práticos**, explorando diferentes tecnologias e formas de resolver problemas.
-
-## 🤖 Automação e Vibe Coding
-
-Tenho interesse em utilizar **IA e ferramentas de Vibe Coding** como apoio ao desenvolvimento, prototipação, experimentação e aprendizado.
-
-Também estudo **automação com Python, n8n e ferramentas similares**, criando integrações entre serviços e automatizando tarefas.
-
-## 📚 Atualmente estudando
-
-* Java
-* Spring Boot
-* APIs REST
-* Banco de dados
-* Python
-* Automação
-* n8n
-* Git e GitHub
-* Docker
-* Desenvolvimento Frontend
-* Integração entre sistemas
-
-## 🎯 Objetivo
-
-Meu objetivo é **evoluir continuamente como desenvolvedor**, aprofundando meus conhecimentos em **Backend, Java, Spring Boot, bancos de dados, Python e automação**.
-
-Busco transformar cada projeto em uma oportunidade de aprendizado, experimentação e evolução, desenvolvendo soluções cada vez melhores.
-
-> 🚀 **Aprender, desenvolver, testar e evoluir sempre.**
-
-## 📫 Contato
-
-* 💻 GitHub: [JoseBlack972](https://github.com/JoseBlack972)
-* 💼 LinkedIn: [joseblack98](https://www.linkedin.com/in/joseblack98/)
-* 📧 E-mail: [code.joseblack@gmail.com](mailto:code.joseblack@gmail.com)
+* Windows
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+## 📂 Projetos
+
+Meus repositórios representam minha evolução nos estudos e na prática de desenvolvimento.
+
+### 🏪 Sistema PDV & Delivery
+
+**Java • Spring Boot • Spring Security • JPA • H2 • PostgreSQL • Docker**
+
+Aplicação prática de um sistema de Ponto de Venda com autenticação, usuários, permissões, produtos, estoque, caixa, vendas, delivery e relatórios.
+
+🔗 [EXAMPLE_PDV_LOCAL_H2](https://github.com/JoseBlack972/EXAMPLE_PDV_LOCAL_H2)
+
+---
+
+### 🐍 Python Mega-Sena
+
+**Python • Lógica de programação • Manipulação de dados**
+
+Projeto prático desenvolvido durante meus estudos de Python, explorando processamento de dados, lógica e geração de combinações.
+
+🔗 [Python-Mega-Sena-](https://github.com/JoseBlack972/Python-Mega-Sena-)
+
+---
+
+### 📚 Fundamentos de Programação
+
+**Java • Python • JavaScript • TypeScript • Go • HTML**
+
+Repositório utilizado para praticar fundamentos de programação, lógica, estruturas de controle, funções, variáveis e conceitos básicos de diferentes linguagens.
+
+🔗 [fundamentos-programacao](https://github.com/JoseBlack972/fundamentos-programacao)
+
+---
+
+### 🐍 Python — Iniciantes
+
+Repositório dedicado aos meus estudos iniciais em Python, com exercícios e pequenos projetos utilizados para desenvolver minha base na linguagem.
+
+🔗 [Python-Iniciantes](https://github.com/JoseBlack972/Python-Iniciantes)
+
+---
+
+## 📚 Atualmente estudando
+
+Meu foco atual está principalmente em:
+
+* ☕ Java
+* 🌱 Spring Boot
+* 🔗 APIs REST
+* 🔐 Spring Security
+* 🗃️ Banco de dados
+* 🐘 PostgreSQL
+* 🐳 Docker
+* 🧪 Testes automatizados
+* 🔄 Integração entre sistemas
+* ⚙️ Automação com Python
+* 🔧 Git e GitHub
+
+---
+
+## 🤖 IA e automação
+
+Também tenho interesse em utilizar **ferramentas de Inteligência Artificial como apoio ao desenvolvimento**, principalmente para:
+
+* Prototipação
+* Exploração de ideias
+* Aprendizado
+* Análise de código
+* Automação
+* Experimentação de soluções
+
+Além disso, estudo **automação com Python, n8n e APIs**, buscando criar integrações e automatizar processos.
+
+---
+
+## 🎯 Objetivo
+
+Meu objetivo é evoluir continuamente como **desenvolvedor Backend**, aprofundando meus conhecimentos em:
+
+```text
+Java
+   ↓
+Spring Boot
+   ↓
+APIs REST
+   ↓
+Spring Security
+   ↓
+Banco de Dados
+   ↓
+Docker
+   ↓
+Testes
+   ↓
+Deploy
+```
+
+Busco transformar cada projeto em uma oportunidade de aprendizado, colocando conceitos em prática e desenvolvendo soluções cada vez mai

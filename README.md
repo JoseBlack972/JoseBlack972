@@ -77,6 +77,7 @@ O projeto possui configuração para execução com **Docker** e estrutura prepa
 ### 🖥️ Sistemas Operacionais
 
 * Linux
+* Ubuntu
 * Fedora
 * Windows
 
@@ -88,4 +89,113 @@ Meus repositórios representam minha evolução nos estudos e na prática de des
 
 ### 🏪 Sistema PDV & Delivery
 
-**Jav**
+**Java • Spring Boot • Spring Security • JPA • H2 • PostgreSQL • Docker**
+
+Aplicação prática de um sistema de Ponto de Venda com autenticação, usuários, permissões, produtos, estoque, caixa, vendas, delivery e relatórios.
+
+🔗 [EXAMPLE_PDV_LOCAL_H2](https://github.com/JoseBlack972/EXAMPLE_PDV_LOCAL_H2)
+
+---
+
+### 🐍 Python Mega-Sena
+
+**Python • Lógica de programação • Manipulação de dados**
+
+Projeto desenvolvido durante meus estudos de Python, explorando processamento de dados, lógica de programação e geração de combinações.
+
+🔗 [Python-Mega-Sena-](https://github.com/JoseBlack972/Python-Mega-Sena-)
+
+---
+
+### 📚 Fundamentos de Programação
+
+**Java • Python • JavaScript • TypeScript • Go • HTML**
+
+Repositório utilizado para praticar fundamentos de programação, lógica, estruturas de controle, funções, variáveis e conceitos básicos de diferentes linguagens.
+
+🔗 [fundamentos-programacao](https://github.com/JoseBlack972/fundamentos-programacao)
+
+---
+
+### 🐍 Python — Iniciantes
+
+Repositório dedicado aos meus estudos iniciais em Python, com exercícios e pequenos projetos utilizados para desenvolver minha base na linguagem.
+
+🔗 [Python-Iniciantes](https://github.com/JoseBlack972/Python-Iniciantes)
+
+---
+
+## 📚 Atualmente estudando
+
+Meu foco atual está principalmente em:
+
+* ☕ Java
+* 🌱 Spring Boot
+* 🔗 APIs REST
+* 🔐 Spring Security
+* 🗃️ Banco de dados
+* 🐘 PostgreSQL
+* 🐳 Docker
+* 🧪 Testes automatizados
+* 🔄 Integração entre sistemas
+* ⚙️ Automação com Python
+* 🔧 Git e GitHub
+
+---
+
+## 🤖 Inteligência Artificial e automação
+
+Também utilizo **ferramentas de Inteligência Artificial como apoio ao desenvolvimento**, principalmente para:
+
+* Prototipação
+* Aprendizado
+* Exploração de ideias
+* Análise de código
+* Automação
+* Experimentação de soluções
+
+A IA faz parte do meu processo de aprendizado e desenvolvimento, mas meu foco principal continua sendo a construção e compreensão das soluções utilizando **Java, Spring Boot, Python, bancos de dados e Docker**.
+
+Também estudo **automação com Python, n8n e APIs**, buscando criar integrações e automatizar processos.
+
+---
+
+## 🎯 Objetivo
+
+Meu objetivo é evoluir continuamente como **desenvolvedor Backend**, aprofundando meus conhecimentos em:
+
+```text
+Java
+   ↓
+Spring Boot
+   ↓
+APIs REST
+   ↓
+Spring Security
+   ↓
+Banco de Dados
+   ↓
+Docker
+   ↓
+Testes
+   ↓
+Deploy
+```
+
+Busco transformar cada projeto em uma oportunidade de aprendizado, colocando conceitos em prática e desenvolvendo soluções cada vez mais organizadas, seguras e eficientes.
+
+> 🚀 **Aprender → Desenvolver → Testar → Evoluir**
+
+---
+
+## 📫 Contato
+
+* 💻 GitHub: [JoseBlack972](https://github.com/JoseBlack972)
+* 💼 LinkedIn: [joseblack98](https://www.linkedin.com/in/joseblack98/)
+* 📧 E-mail: [code.joseblack@gmail.com](mailto:code.joseblack@gmail.com)
+
+---
+
+⭐ **Obrigado por visitar meu perfil!**
+
+Se algum dos meus projetos for útil ou interessante para você, fique à vontade para explorar os repositórios.
